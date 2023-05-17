@@ -1,0 +1,1360 @@
+)
+
+SUE;
+
+Generalitat de Catalunya
+Consell Interuniversitari de Catalunya
+Oficina d'Acces a la Universitat
+
+Criteris de correcció
+
+Página 2 de 26
+PAU 2020
+
+Economia de empresa
+
+Pautes de correcció específiques:
+
+Responeu a QUATRE dels sis exercicis seguients. Cada exercici val 2,50 punts. En el cas que
+respongueu a tots els exercicis, només es valoraran els quatre primers.
+
+Exercici 1
+
+L'empresa Cosbra SL presenta aquest llistat de dades comptables a 31 de desembre de 2019:
+
+Conceptes Import (milers €)
+
+Despeses de personal
+
+900
+
+Altres ingressos d'explotació
+
+100
+
+Despeses financeres
+
+50
+
+Proveiments
+
+1.300
+
+Amortització de l'immobilitzat
+
+700
+
+Altres despeses d'explotació
+
+300
+
+Import net de la xifra de negocis
+
+3.300
+
+Ingressos financers
+
+150
+
+1.1. A partir d'aquestes dades, elaboreu el compte de perdues ¡ guanys de l'empresa Cosbra, SL
+
+tenint en compte que l'impost sobre beneficis és del 30 %.
+[1 punt]
+
+PÉRDUES | GUANYS Import (milers €)
+
++ Ingressos d'explotació 3.400
+Import net de la xifra de negocis 3.300
+Altres ingressos d'explotació 100
+
+- Despeses d'explotació 3.200
+Proveiments 1.300
+Despeses de personal 900
+Amortització de limmobilitzat 700
+Altres despeses d'explotació 300
+RESULTAT D'EXPLOTACIÓ 200
+= RESULTAT ABANS D'INTERESSOS | IMPOSTOS (BAII) 200
+= RESULTAT ABANS D'INTERESSOS | IMPOSTOS (BAII) 200
++ Ingressos financers 150
+
+- Despeses financeres -50
+RESULTAT FINANCER 100
+= RESULTAT ABANS D'IMPOSTOS (BAI) 300
+= RESULTAT ABANS D'IMPOSTOS (BAI) 300
+- Impost sobre beneficis -90
+
+= RESULTAT NET (BN) 210
+
+Generalitat de Catalunya
+2i Consell Interuniversitari de Catalunya
+Oficina d'Acces a la Universitat
+
+Criteris de correcció
+
+Página 3 de 26
+PAU 2020
+
+Economia de l'empresa
+
+> Només puntuen els encerts. Els errors no resten, tenen un valor igual a zero.
+7 No s'han de posar en el compte de perdues ¡ guanys aquelles partides que no surten en
+l'enunciat d'aquest exercici, tret del cálcul del impost sobre beneficis.
+
+> Els errors en els cálculs numérics només es poden descomptar una vegada. Si un estudiant
+comenca a realitzar el compte de resultats de manera incorrecta, no és pot penalitzar tot el
+
+compte de resultats “en bloc”.
+
+1.2. Sabent que el total de Vactiu té un valor de 4.000 €, calculeu la rendibilitat económica abans
+d'interessos ¡ d'impostos ¡ interpreteu la xifra obtinguda.
+[1 punt]
+
+NOTA: S'ADMET COM A BONA DUES POSSIBLES SOLUCIONS O INTERPRETACIONS:
+
+OPCIÓ 1: considerar que els 4.000 són milers d'euros ja que totes les xifres de l'enunciat són
+milers d'euros:
+
+Rendibilitat económica: Benefici abans d'interessos ¡ impostos (BAII) / Total Actiu
+
+200 / 4.000 = 0,05 x 100 = 5%
+
+La rendibilitat económica ha estat del 5%.
+
+Interpretació:
+La rendibilitat económica relaciona el benefici abans d'interessos ¡ impostos obtingut amb l'activitat
+
+de l'empresa en un període respecte al total d'inversió emprada per a la seva obtenció (total de
+Vactiu). És a dir, ens informa de quina és la rendibilitat de la inversió realitzada (total de lactiu del
+balang de situació). Quant més elevat sigui aquest rati molt millor perqué indicará que s'obté més
+productivitat d'aquest actiu.
+
+La rendibilitat económica ha estat del 5%. Ens informa que amb la inversió realitzada de 4.000
+(total de l'actiu del balang de situació) hem obtingut un benefici abans d'interessos ¡ impostos
+(BAII) de 200, el que representa un 5% de rendibilitat económica. Dit d'una altra manera per cada
+euro invertit en Actiu, l'empresa obté 5 céntims d'euro de beneficis. O dit d'una altra manera per
+cada 100 euros invertits en l'actiu empresa obté 5 euros de benefici abans d'interessos ¡ impostos.
+
+OPCIÓ 2: considerar que els 4.000 són només euros:
+
+200.000/4.000 = 50 x 100 = 5000%
+
+La rendibilitat económica ha estat del 5000%. Ens informa que amb la inversió realitzada de 4.000
+(total de lactiu del balanc de situació) hem obtingut un benefici abans d'interessos ¡ impostos
+(BAII) de 200.000, el que representa un 5000% de rendibilitat económica. Dit d'una altra manera
+per cada euro invertit en 'Actiu, empresa obté 50 euros de beneficis. O dit d'una altra manera
+per cada 100 euros invertits en l'actiu l'empresa obté 5000 euros de benefici abans d'interessos i
+impostos.
+
+Generalitat de Catalunya Página 4 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+1.3. Expliqueu la diferencia que hi ha entre la rendibilitat económica la rendibilitat financera sense
+fer cap calcul.
+[0,5 punt]
+Són dues relacions diferents.
+La rendibilitat economica relaciona el benefici amb la inversió. Utilitza el benefici abans d'interessos
+¡impostos (BAII) per relacionar-lo amb els recursos invertits o inversió realitzada (total de l'actiu del
+balang de situació) per aconseguir l'esmentat benefici.
+Benefici abans d'interessos ¡ impostos / Total Actiu
+Com més alta sigui aquesta rátio, millor perque indicara que es requereixen pocs actius per
+aconseguir un benefici alt.
+En canvi, la rendibilitat financera relaciona el benefici amb el financament. Utilitza el benefici net
+amb el financament aportat pels propietaris o accionistes (patrimoni net).
+Benefici net / Patrimoni Net
+És el rendiment que abté el capital aportat pels inversors en funció del benefici net obtingut en
+l'exercici. Mesura la remuneració als propietaris de l'empresa. Com més alta sigui, més grans seran
+els beneficis obtinguts pels inversors.
+
+En conclusió, la diferencia radica en el fet que:
+
+La rendibilitat económica ens informa de quina és la rendibilitat de la inversió realitzada (total de
+lactiu del balang de situació). En canvi, la rendibilitat financera mesura la remuneració als
+propietaris de l'empresa.
+
+Nota: Els correctors no han de buscar la perfecció de les respostes per aplicar la máxima puntuació.
+Qualsevol explicació de les preguntes que demostri que l'estudiant argumenta correctament el que es
+demana es donará per bona.
+
+No és obligatori que l'estudiant expliqui, per separat, que és la rendibilitat economica i¡, després, la
+rendibilitat financera ja que el que es pregunta és la diferéncia entre els dos conceptes. Si explica
+directament en qué radica la diferéncia dels dos conceptes es donará per bona la seva resposta.
+]) Generalitat de Catalunya Pagina 5 de 26
+UY Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Acces a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 2
+
+La Laia está decidida a instal:lar un modern hivernacle al terrat de l'edifici d'habitatges on viu per a
+cultivar-hi verdures ¡ aconseguir ingressos per a la comunitat de veins venent-les. Ha recollit la
+informació de dos models d'hivernacles ¡ vol saber quin seria el més aconsellable economicament
+per a presentar la proposta a la propera reunió de veins.
+
+En la taula seguent es mostra la inversió o desemborsament inicial, l'estimació de fluxos de caixa nets
+(FCN) per a cada projecte ¡ el valor residual al final de la seva vida. Els imports s'expressen en euros.
+
+Any 1 Any 2 Any 3 |¡Any4 Any 5
+Inversió o
+desemborsament Valor
+Projecte inicial FCN FCN FCN FCN FCN residual
+Model 1 20.000 5.000 5.000 5.000 5.000 5.000 0
+Model 2 15.000 4.000 4.000 4.000 4.000 4.000 0
+
+Nota: Cost de capital (o taxa d'actualització o de descompte): 4%
+
+2.1. Expliqueu qué és el criteri del valor actual net (VAN). Calculeu el VAN de cada projecte ¡ digueu
+quin dels dos models d'hivernacle recomanaríeu tenint en compte aquest criteri. Justifiqueu
+la resposta.
+
+[1 punt]
+
+Definició
+
+El valor actual net (VAN) és la diferencia entre els fluxos de caixa generats per un projecte
+actualitzats a una taxa de descompte o actualització ¡ els valors, també actualitzats, dels
+desembossaments d'una inversió. Quan el resultat és positiu significa que la inversió genera
+riquesa | és aconsellable realitzar-la.
+
+Calculs (resultats amb 2 decimals):
+VAN del model 1 = -20.000 + 5.000 / (1+0,04)* + 5.000 / (1+0,04)*+ 5.000 / (1+0,04)* + 5.000 /
+(1+0,04)* + (5.000 + 0) / (1+0,04)* 2.259,11 euros
+
+VAN del model 1 = -20.000 + (4.807,69 +4.622,78 + 4.444,98 + 4.274,02 + 4.109,64) =
+-20.000 + 22.259,11 = 2.259,11 euros.
+
+VAN del model 2 = -15.000 + 4.000 / (1+0,04)? + 4.000 / (1+0,04)?+ 4.000 / (1+0,04)? + 4.000 /
+(1+0,04)*+ (4.000 + 0) / (1+0,04)” = 2.807,29 euros
+
+VAN del model 2 = -15.000 + (3.846,15 + 3.698,22 + 3.555,99 + 3.419,22 + 3.287,71)= -15.000 +
+17.807,29 = 2.807,29 euros.
+
+Com s'ha dit anteriorment, d'acord amb el criteri del VAN, les inversions són efectuables si
+s'obté un VAN major o igual que O.
+
+Els projectes 1 i2 es poden fer. Els projectes 1 ¡2 són recomanable perqué el VAN és positiu,i
+es recupera el desembossament inicial.
+
+N Generalitat de Catalunya Pagina 6 de 26
+
+UY Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Elecció del projecte ¡ justificació
+
+VAN projecte 1: |Si l'estudiant treballa amb 2 decimals el resultat és: 2.259,11 euros.
+VAN projecte 2: |Sil'estudiant treballa amb 2 decimals el resultat és: 2.807,29 euros.
+
+Segons el criteri del VAN, seria més recomanable el projecte 2, perque el valor actualitzat dels fluxos
+de caixa nets esperats és positiu ¡ superior al del projecte 1.
+
+2.2. Quina decisió prendríeu davant de cadascun dels dos projectes d'inversió amb els valors de
+la TIR seguients, sabent que la taxa d'actualització del mercat és del 4%? Justifiqueu les
+respostes per a cadascuna de les TIR proposades a continuació, sense fer cap cálcul.
+
+[0,5 punts]
+
+a) TIR, =8%
+
+b) TIR, =3%
+
+Justificació de cada selecció dels projectes:
+
+TIR:=8%
+
+El projecte d'inversió s'acceptara. Obtindríem una rendibilitat del 8%, la qual és superior a la del
+
+mercat del 4%. En aquest cas, el VAN seria positiu ¡ "empresa obtindria guanys per la inversió.
+
+TIR: = 3%
+
+El projecte d'inversió no s'acceptara, ja que el rendiment de la inversió és inferior al tipus
+
+d'actualització del mercat.
+
+2.3. Calculeu el termini de recuperació (0 payback) per a cadascun dels dos projectes. Quin
+projecte és més recomanable segons aquest criteri? Raoneu la resposta.
+[1 punt]
+Calculs:
+Projecte del model 1:
+El projecte 1 té una inversió inicial de 20.000€.
+5.000 (primer any) + 5.000 (segon any) + 5.000 (tercer any) + 5.000 (quart any)
+Es trigará 4 anys a recuperar la inversió inicial
+
+Projecte del model 2:
+
+El projecte 2 té una inversió inicial de 15.000€.
+
+4.000 (primer any) + 4.000 (segon any) + 4.000 (tercer any) + 3.000 (quart any). El quart any no
+podem agafar els 4.000 euros ja que només en necessitem 3.000 per arribar al desembors inicial.
+Per tant, hem de fer una regla de tres.
+
+Regla de tres:
+
+4.000..........12 mesos
+
+3.000..........X
+
+X= 3.000 x 12/4.000 = 9 mesos.
+
+Es trigará 3 anys i 9 mesos a recuperar la inversió inicial.
+
+Interpretació:
+
+La millor opció, segons el criteri del termini de recuperació, és el projecte del model 2, ja que
+es recupera en el menor temps de les dues alternatives.
+) Generalitat de Catalunya
+
+Página 7 de 26
+
+UY Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Acces a la Universitat
+Criteris de correcció Economia de l'empresa
+Exercici 3
+L'empresa TUTu, SA presenta la informació comptable segilent a 31 de desembre de 2019:
+Concepte Import (€)
+Mobiliari 4.000
+Elements de transport 20.000
+Equips per a processos d'informació 3.000
+Proveidors 15.000
+Creditors per prestació de serveis 10.000
+Proveidors d'immobilitzat a curt termini 5.000
+Deutes a curt termini amb entitats de crédit 3.000
+Concessions administratives, propietat industrial ¡ drets de traspás 47.000
+Aplicacions informátiques 3.000
+Proveidors d'immobilitzat a llarg termini 20.000
+Deutes a llarg termini amb entitats de credit 40.000
+Bancs | institucions de crédit 9.000
+Caixa 1.000
+Terrenys ¡ bens naturals 73.000
+Construccions 290.000
+Capital / capital social 340.000
+Reserves 50.000
+Resultat de l'exercici 10.000
+Clients 50.000
+Hisenda pública, creditora per conceptes fiscals 4.000
+Organismes de la Seguretat Social creditors 3.000
+
+Nota: Tots els comptes d'immobilitzat es presenten amb el valor comptable net.
+
+Oficina d'Acces a la Universitat
+
+Criteris de correcció
+
+N Generalitat de Catalunya
+
+12; Consell Interuniversitari de Catalunya
+
+Economia de l'empresa
+
+Página 8 de 26
+PAU 2020
+
+3.1. A partir de les dades proporcionades, elaboreu el balang de situació d'aquesta empresa,
+degudament classificat per masses patrimonials, en data 31 de desembre de 2019. Només hi
+heu d'incloure aquelles masses o elements patrimonials que figurin en la taula.
+
+[1,5 punts]
+
+BALANC DE SITUACIÓ a 31-12-2019
+
+PATRIMONI NET |
+
+ACTIU PASSIU
+(Estructura
+(Estructura economica o financera o
+capital en funcionament) € € € capital financer) € €
+ACTIU NO CORRENT 440.000 | PATRIMONI NET 400.000
+Capital / capital
+Immobilitzat intangible* 50.000 social 340.000
+Concessions adm.,
+prop. ind., drets traspas 47.000 Reserves 50.000
+Aplicacions Resultat de
+informatiques 3.000 l'exercici 10.000
+Immobilitzat material* 390.000
+Terrenys ¡ bens PASSIU NO
+naturals 73.000 CORRENT 60.000
+Proveidors
+d'immobilitzat a
+Construccions 290.0000 llarg termini 20.000
+Deutes a llarg
+termini amb
+Mobiliari 4.000 entitats credit 40.000
+Elements de transport 20.000
+Equips per a processos
+d'informació 3.000
+ACTIU CORRENT 60.000 | PASSIU CORRENT 40.000
+Realitzable 50.000 Proveidors 15.000
+Creditors per
+prestació de
+Clients 50.000 serveis 10.000
+Proveidors
+d'immobilitzat a
+Disponible 10.000 curt termini 5.000
+Deutes a curt
+Bancs ¡ institucions termini amb
+de crédit 9.000 entitats de crédit 3.000
+Hisenda
+pública, creditora
+Caixa 1.000 per conc. fiscals 4.000
+
+Generalitat de Catalunya Página 9 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+Organismes
+
+Seguretat Social
+
+creditors 3.000
+
+Total Patrimoni
+Total Actiu 500.000 | Net i Passiu 500.000
+* Els comptes d'Immobilitzat es presentaran pel seu valor net comptable (cost d'adquisició o cost de
+producció menys amortització acumulada)
+
+” Si alguna massa o element patrimonial no está ben ubicat en el Balanc de Situació, no es restará cap
+valor sinó que la seva puntuació sera igual a zero. Només puntuen els encerts.
+Els errors no resten, tenen un valor igual a zero.
+
+7 No s'han de posar en el Balanc de Situació aquelles masses o elements patrimonials que no surten en
+Yenunciat d'aquest exercici.
+
+” No es poden penalitzar els canvis en l'ordre dins d'una mateixa massa patrimonial. Per exemple, en
+aquest exercici, dins del Passiu no corrent hi ha: Proveidors d'immobilitzat a llarg termini ¡ Deutes a
+llarg termini amb entitats de crédit, ¡ estudiant pot escollir posar primer un element patrimonial o un
+altre, sempre que els posi dins del Passiu no corrent. Dins d'una massa patrimonial hi ha diferents
+elements patrimonials que tenen la mateixa significació o funcionalitat económica. L'estudiant pot
+col-locar els elements patrimonials que formen part d'una mateixa massa patrimonial en l'ordre que
+vulgui. L'ordre no ha de coincidir amb la solució proposada i, per tant, no es pot penalitzar.
+
+> Elserrorsenels cálculs numérics només es poden descomptar una vegada. És a dir, que si, per exemple,
+els estudiants no han calculat bé I'Immobilitzat intangible, pero pels resultats seglients fan els calculs
+o interpretacions bé a partir dels valors erronis obtinguts en el cálcul anterior, s'ha d'atorgar igualment
+la puntuació maxima.
+
+7 No es pot penalitzar tot el balang de situació “en bloc” pel fet que ja han comencat malament els
+cálculs d'aquest exercici.
+
+3.2. Definiu les quatre fonts de financament segúents:
+[1 punt: 0,25 punts de cada definició]
+
+Lísing: és un contracte de lloguer que incorpora una opció de compra a favor de l'arrendatari
+a exercir al final del contracte, ¡ que, per les seves característiques, no hi ha dubtes que será
+exercida, normalment perque l'import de l'opció de compra és molt inferior al valor del bé en
+aquest moment.
+
+Préstec a llarg termini: recursos que s'han de tornar ¡ remunerar en uns terminis pactats.
+Contracte mitjancant el qual generalment una entitat de credit Iliura un import previament
+pactat a una empresa o individu, amb un venciment ¡ pla d'amortització establert, ¡ amb uns
+interessos segons les condicions establertes.
+
+Descomptes d'efectes: és una operació financera que consisteix en la presentació d'un títol
+de crédit en una entitat financera perqué aquesta n'anticipi import i en gestioni el cobrament.
+L'empresa cedeix el títol al banc ¡ aquest li abona l'import en diners, descomptant l'import de
+les quantitats cobrades pels serveis prestats.
+
+Pólissa de crédits: és un producte financer adequat per cobrir desfasaments entre els
+cobraments ¡ pagaments de l'empresa i, per tant, per poder disposar de diners líquids en
+moments puntuals. Els costos que té una pólissa són una comissió pel fet de constituir-la ¡ un
+tipus d'interés a aplicar sobre la quantitat disposada (la que s'ha fet servir) ¡, de vegades, una
+comissió per la no disponibilitat.
+
+0,25 punts per cada definició que estigui expressada de manera correcta. No cal que el text sigui
+exacte a la solució proposada per poder puntuar.
+Generalitat de Catalunya Pagina 10 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 4
+4.1. Les petites ¡ mitjanes empreses (pimes) tenen avantatges ¡ inconvenients. Empleneu la taula
+seglient amb dues característiques de cada tipus (sense explicar-les).
+
+[0,8 punts]
+Avantatges de les pimes Inconvenients de les pimes
+Els estudiants només n'han de citar dues Els estudiants només n'han de citar dues
+Organització flexible Poca formació empresarial
+Integració del personal Poca capacitat financera
+Desenvolupament en mercats intersticials Nivell de qualificació ¡ formació tecnica del
+personal
+Creadores d'ocupació Obsolescéncia tecnológica
+
+4.2. Sempre s'ha comentat que un dels sistemes que tenen les pimes per a sobreviure en un entorn
+fortament competitiu és créixer. Expliqueu quines formes de creixement empresarial
+existeixen ¡ esmenteu dos avantatges de cadascuna.
+
+[0,8 punts]
+
+Creixement intern, es dona quan l'empresa realitza un augment de la seva dimensió per mitja
+
+d'inversions en la seva propia estructura. Aquesta tipologia de creixement també es denomina
+
+creixement natural o organic.
+
+Creixement extern, consisteix en l'ampliació de l'empresa per mitjá de l'adquisició, la participació o
+
+el control d'altres empreses.
+
+El creixement intern té els avantatges segients:
+
+e Permet l'adquisició de factors de producció més actuals (el personal amb formació més
+actualitzada, novetats tecnologiques, maquinária d'última generació, etc.).
+
+e Presenta la possibilitat d'un creixement més organitzat ¡ gradual, per tant, permet que es
+vagin realitzant els canvis necessaris d'adaptació de l'estructura organitzativa a la nova
+dimensió.
+
+El creixement extern té els avantatges seglients:
+
+e Estalvi de temps, ja que és molt més rápid ¡ permet augmentar la dimensió des del mateix
+moment en qué es tanca la negociació d'integrar la nova empresa.
+
+e Permet superar les barreres d'entrada a un sector o un mercat geografic en el quals el
+creixement intern resultaria molt difícil.
+
+e Facilita entrada a mercats o sectors madurs, molt sobredimensionats on no tindria sentit
+créixer per mitja del creixement intern, afegint més sobredimensió a l'oferta del sector.
+
+> Els correctors no han de buscar la perfecció en la definició per aplicar la máxima puntuació.
+Qualsevol explicació que demostri que l'estudiant argumenta correctament el que es demana
+es donará per bona.
+Generalitat de Catalunya Pagina 11 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+
+Oficina d'Acces a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+4.3. Si una pime es vol obrir als mercats internacionals pot optar per tres estratégies
+
+d'internacionalització. Esmenteu aquestes tres estratégies ¡ expliqueu-ne només una.
+
+[0,9 punts]
+
+Anomenar:
+
+Estratégia Multidoméstica
+
+Estratégia Global
+
+Estratégia transnacional
+
+NOMÉS HAN D'EXPLICAR-NE UNA. Diferents estratégies en el procés dinternacionalització de les
+
+empreses
+
+Aquesta obertura als mercats internacionals que suposa la internacionalització de les empreses
+
+implica decisions per tal de portar a terme operacions per vincular-se amb aquests mercatsi portari
+vendre els productes i/o serveis a l'exterior. Les empreses que s'internacionalitzen poden optar per
+decidir tres tipus d'estratégies d'internacionalització:
+
+1.
+
+Estrategia multidoméstica: És quan "empresa descentralitza la seva organització ¡ les decisions
+productives ¡ de comerg en cada país en qué qual opera. Així, dona una resposta personalitzada
+o més diferenciada per a cada filial d'aquesta empresa internacionalitzada, segons les
+característiques, recursos ¡ necessitats locals del país on opera. Ben sovint, es veu una certa
+independencia entre les directrius de les filials ¡ de la seu matriu origen o central; també es
+poden contractar treballadors al país de la filial ¡ hi ha una adaptació a les normatives o
+regulacions així com una planificació del comerg ¡ marqueting d'acord amb els gustos,
+requeriments ¡ característiques dels consumidors del país.
+
+Estratégia global: És quan, al contrari de estrategia anterior, l'empresa planteja la programació
+productiva ¡ ladministració de manera global per a tots els paisos on opera, amb la idea de
+simplificar centralitzant els recursos globals ¡ extraure un avantatge competitiu d'aquest fet. Així
+dones, les filials tenen poc marge d'independéncia ¡ capacitat per programar canvis diferencials
+sobre la producció, tipus de productes ¡ pautes de marqueting o comerc, i, per tant, tots els
+productes són iguals per a tots els paisos, amb les mateixes marques i altres parámetres de
+márqueting. És normal que en moltes d'aquestes empreses els directius ¡ administradors d'alt
+nivell siguin del país origen de l'empresa.
+
+Estrategia transnacional: És quan l'empresa elimina fronteres o barreres geográfiques ¡ així
+utiliza totes les seves estrategies de producció ¡ vendes sense tenir en compte d'on
+procedeixen, és a dir, sense tenir en compte la filial que les promou ¡ les proposa. D'aquesta
+manera, l'empresa pot utilitzar transnacionalment totes les idees ¡ propostes vinguin d'on
+vinguin, ¡ així poder explotar nous productes i/o serveis a nivell global. L'empresa amb estrategia
+transnacional té una visió global del mercat ¡ pot assignar determinats papers importants a
+qualsevol de les filials, dins de l'ambit comercial, de la innovació ¡ desenvolupament de nous
+productes ¡ serveis o innovació ¡ desenvolupament tecnológic, o dins d'altres ambits. Tot
+Vanterior amb l'idea de maximitzar la utilitat ¡ l'eficiéncia dels recursos, la productivitat ¡ reduir
+costos. Es podria dir que l'empresa programa | té una visió global, peró actua de manera local;
+seria una estrategia intermédia entre la multidoméstica ¡ la global anteriors.
+
+Nota: Els correctors no han de buscar la perfecció de les respostes per aplicar la máxima puntuació.
+Qualsevol explicació a les preguntes obertes que demostri que l'estudiant argumenta correctament
+
+el que es demana a l'enunciat es donará per bona.
+
+Generalitat de Catalunya Pagina 12 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 5
+La societat cooperativa Bonaapp es dedica a la investigació ¡ venda de diverses aplicacions per a
+dispositius móbils, amb els costos segients:
+e Lloguer fix anual del local: 30.000 €.
+e Cost fix anual dels socis treballadors de l'empresa: 250.000 €.
+e Cost fix total per la compra dels ordinadors al llarg de cinc anys: 80.000 €.
+e Comissió de distribució de les aplicacions: 0,2 € la unitat.
+El preu unitari de cada descárrega és d'1 €.
+
+5.1. Calculeu el marge de contribució unitari per descárrega de les aplicacions que comercialitza la
+cooperativa.
+[0,6 punts]
+> El preu unitari de cada descárrega és d'1 €.
+> Comissió de distribució de les aplicacions = 0,2 € la unitat.
+Calcul:
+Marge de contribució = (p unitari - CVu) = 1- 0,2 =0,8 €
+
+5.2. Calculeu el punt mort, és a dir, quantes descárregues anuals seran necessáries perque
+l'empresa pugui comencar a tenir beneficis. Interpreteu el resultat obtingut.
+[0,6 punts]
+
+Calcul:
+
+Q = CF/ (p unitari - Cvu) = 30.000 + 250.000 + (80.000/5) / 1 - 0,2 = 370.000 descárregues anuals.
+
+Interpretació:
+Si a l'empresa es produeixen 370.000 descárregues anuals, el seu benefici será igual a zero. Si hi
+
+ha més de 370.000 descárregues anuals, obtindrá beneficis i menys pérdues.
+
+5.3. Si el nombre de descárregues anual fos d'1.000.000, quin benefici o pérdua tindria la
+cooperativa?
+[0,6 punts]
+
+Si q = 1.000.000
+
+B=IT-CT=p* q-(CF+CV*q) = 1*1.000.000-(296.000 + 0,2*1.000.000) = 1.000.000 - 496.000 = 504.000 €
+
+5.4. Digueu quin és l'objectiu principal de les cooperatives, quina responsabilitat tenen els socis
+davant els deutes de la societat ¡ quin és el nombre mínim de socis que han de tenir les
+cooperatives de primer ¡ segon grau.
+
+[0,7 punts]
+
+V'objectiu principal de les cooperatives és satisfer l'interés comú dels socis.
+
+Els socis tindran responsabilitat limitada en el capital aportat a la cooperativa.
+
+El nombre mínim de socis que han de tenir les cooperatives de primer grau: mínim 3, ¡ de segon
+
+grau: mínim 2.
+
+Generalitat de Catalunya Pagina 13 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 6
+
+Encercleu la lletra de l'opció correcta de les questions segúuents.
+
+[Cada resposta correcta val 0,5 punts. Per cada resposta errónia es descomptaran 0,1 punts; per les
+preguntes no contestades no hi haurá cap descompte.]
+
+RESPOSTES:
+6.1. C
+6.2. C
+63. D
+64. B
+6.5. A
+PUNTUACIÓ:
+
+0,50 punts per cada resposta correcte; -0,1 si és incorrecta ¡ 0 si no respon.
+
+NOTA: Aquest exercici mai no podrá implicar una nota negativa que resti puntuació de la qualificació
+final de examen. En cas que la puntuació fos negativa, es considerara com a zero.
+
+Puntuació total: 2,50 punts (si totes les respostes són correctes: 5 x 0,50).
+
+Generalitat de Catalunya Pagina 14 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+SERIE 3
+
+Pautes de correcció generals:
+
+1.- Es valorará la correcció escrita del vocabulari economic ¡ el raonament economic expressat amb
+coherencia. De manera que el corrector podrá aplicar descomptes sobre la puntuació maxima dels
+exercicis si els arguments economics s'expressen de manera inconsistent.
+
+2.- El que figura a les pautes de correcció que segueixen, especialment a les preguntes obertes, són
+respostes orientatives sovint molt completes. Els correctors no han de buscar la perfecció de les respostes
+per aplicar la máxima puntuació. Qualsevol explicació a les preguntes obertes que demostri que
+l'estudiant argumenta correctament el que es demana a l'enunciat es donará per bona.
+
+3.- Els errors en els cálculs numérics només es poden descomptar una vegada. És a dir, que si en un apartat
+no calculen el valor correcte, peró als apartats segients els estudiants fan els cálculs o interpretacions bé
+a partir dels valors erronis obtinguts en l'apartat anterior, s'ha d'atorgar igualment la puntuació maxima.
+
+N Generalitat de Catalunya Pagina 15 de 26
+UY Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Acces a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Pautes de correcció específiques:
+
+Responeu a QUATRE dels sis exercicis seguients. Cada exercici val 2,50 punts. En el cas que
+
+respongueu a tots els exercicis, només es valoraran els quatre primers.
+
+Exercici 1
+
+L'empresa de consultoria ¡ serveis informátics Estem Connectats SL presenta la llista de dades
+
+comptables segilient a 31 de desembre de 2019:
+
+Conceptes Import (€)
+
+Ingressos financers 4.000
+Despeses de personal 200.000
+Altres ingressos d'explotació 20.000
+Import net de la xifra de negocis 420.000
+Amortització de limmobilitzat 136.000
+Despeses financeres 32.000
+Impost sobre benefici (25% sabre el benefici abans d'impostos N
+
+(BAI) -
+
+1.3. A partir d'aquestes dades, elaboreu el compte de pérdues ¡ guanys de l'empresa Estem
+
+Connectats, SL, aplicant un impost sobre beneficis del 25 %.
+
+[1 punt]
+PERDUES | GUANYS Import (€)
++Ingressos d'explotació 440.000
+Import net de la xifra de negocis 420.000
+Altres ingressos d'explotació 20.000
+-Despeses d'explotació 336.000
+Despeses de personal 200.000
+Amortització de limmobilitzat 136.000
+RESULTAT D'EXPLOTACIÓ 104.000
+= RESULTAT ABANS D'INTERESSOS | IMPOSTOS (BAII) 104.000
+= RESULTAT ABANS D'INTERESSOS | IMPOSTOS (BAII) 104.000
++Ingressos financers 4.000
+- Despeses financeres 32.000
+RESULTAT FINANCER -28.000
+= RESULTAT ABANS D'IMPOSTOS (BAI) 76.000
+= RESULTAT ABANS D'IMPOSTOS (BAI) 76.000
+- Impost sobre beneficis 19.000
+= RESULTAT NET (BN) 57.000
+
+> ÑNomés puntuen els encerts. Els errors no resten, tenen un valor igual a zero.
+
+>
+
+No s'han de posar en el compte de pérdues ¡ guanys aquelles partides que no surten en
+l'enunciat d'aquest exercici, tret del calcul del impost sobre beneficis.
+
+Els errors en els cálculs numérics només es poden descomptar una vegada. És a dir, que si per
+exemple, els estudiants no han calculat bé els ingressos d'explotació, peró pels resultats seglients
+fan els calculs bé a partir dels valors erronis obtinguts en el calcul anterior, s'ha d'atorgar
+igualment la puntuació máxima.
+Generalitat de Catalunya Pagina 16 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+” Noés pot penalitzar tot el compte de resultats “en bloc” pel fet que ja en comencat malament els
+calculs. Per exemple, si calculen malament els ingressos d'explotació obtindran la qualificació de
+zero, peró, a continuació, si són coneixedors de les partides que integren les despeses
+d'explotació ¡ les calculen correctament, llavors se'ls hi ha de posar un zero dels ingressos
+d'explotació pero en canvi un 0,20 de les despeses d'explotació.
+
+1.4. Elaboreu el balang de situació d'aquesta empresa a 31 de desembre de 2019 degudament
+classificat per masses patrimonials, a partir de les dades facilitades a la taula de sota. Només
+hi heu d'incloure aquelles masses o elements patrimonials que figuren en la taula, tret del
+resultat de l'exercici, que l'heu obtingut en l'apartat anterior.
+
+[1 punt]
+
+Conceptes Import (€)
+Mobiliari 60.000
+Hisenda pública creditora per conc. fiscals 10.000
+Reserves 97.000
+Proveidors 24.000
+Clients 60.000
+Deutes a curt termini amb entitats de credit 10.000
+Aplicacions informátiques 68.000
+Capital social 300.000
+Bancs i institucions de crédit 52.000
+Caixa 20.000
+Equips per a processos d'informació 100.000
+Proveidors de l'immobilitzat a curt termini 20.000
+Deutes a llarg termini amb entitats de credit 170.000
+Inversions financeres a llarg termini 90.000
+Construccions (per a l'activitat productiva) 250.000
+Creditors per prestació de serveis 12.000
+Resultat de l'exercici ('heu obtingut en apartat anterior) ?
+
+Nota: Tots els comptes d'immobilitzat ja es presenten pel seu valor net comptable.
+]) Generalitat de Catalunya
+1; Consell Interuniversitari de Catalunya
+Oficina d'Acces a la Universitat
+
+Criteris de correcció
+
+Economia de l'empresa
+
+Pagina 17 de 26
+PAU 2020
+
+BALANC DE SITUACIÓ a dia 31-12-2019
+
+PATRIMONI NET |
+
+ACTIU PASSIU
+(Estructura
+(estructura economica o financera o
+capital en funcionament) € € £ capital financer) € €
+ACTIU NO CORRENT 568.000 | PATRIMONI NET 454.000
+Capital/capital
+Immobilitzat intangible* 68.000 social 300.000
+Aplicacions
+informátiques 68.000 Reserves 97.000
+Resultat de
+l'exercici 57.000
+Immobilitzat material* 410.000
+PASSIU NO
+Construccions 250.000 CORRENT 170.000
+Deutes a llarg
+term. amb entitats
+Mobiliari 60.000 crédit 170.000
+Equips per a processos
+d'informació 100.000
+Inversions financeres a
+llarg termini 90.000
+ACTIU CORRENT 132.000 | PASSIU CORRENT 76.000
+Realitzable 60.000 Proveidors 24.000
+Creditors per
+prestació de
+Clients 60.000 serveis 12.000
+Proveidors
+d'immobilitzat a
+Disponible 72.000 curt termini 20.000
+Deutes a curt
+Bancs ¡ institucions de term. amb entitats
+crédit 52.000 de credit 10.000
+Hisenda Pública,
+creditora per
+Caixa 20.000 conc. fiscals 10.000
+Total Patrimoni
+Total Actiu 700.000 | Net i Passiu 700.000
+
+* Els comptes d'Immobilitzat es presentaran pel seu valor net comptable (cost d'adquisició o cost de
+
+producció menys amortització acumulada)
+
+Generalitat de Catalunya Pagina 18 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+7 Aquest apartat 1.2 está vinculat al 1.1 ja que per quadrar el balang de situació necessiten la dada
+obtinguda en l'apartat anterior: Resultat de l'exercici: 57.000 euros. No es pot penalitzar a
+lestudiant dues vegades pel mateix concepte. Per tant, si el patrimoni net no els hi dona 454.000
+euros degut a que han fet malament l'apartat 1.1 no els podeu tornar a penalitzar. Els errors en els
+cálculs numérics només es poden descomptar una vegada. És a dir, que si per exemple, els
+estudiants no han calculat bé el resultat de l'exercici (en l'apartat anterior), pero en aquest exercici
+saben que el patrimoni net está integrat per les partides segiients amb independencia del valor
+quer posin al resultat de l'exercici s'ha d'atorgar igualment la puntuació máxima, és a dir 0,20 punts.
+
+PATRIMONI NET 454.000
+Capital/capital social 300.000
+Reserves 97.000
+Resultat de l'exercici 57.000
+
+7 No es pot penalitzar tot el balang de situació “en bloc” pel fet que ja han comencat malament els
+cálculs d'aquest exercici.
+
+> Si alguna massa o element patrimonial no está ben ubicada en el Balanc de Situació no es restará
+cap valor sinó que la seva puntuació sera igual a zero. Només puntuen els encerts.
+Els errors no resten, tenen un valor igual a zero.
+
+7 No s'han de posar en el Balanc de situació aquelles masses o elements patrimonials que no surten
+en l'enunciat d'aquest exercici, tret del resultat de l'exercici que l'han obtingut en l'apartat anterior.
+
+” No es pot penalitzar els canvis en ordre dins d'una mateixa massa patrimonial. Per exemple, en
+aquest exercici dins del Passiu no corrent hi ha: Proveidors d'immobilitzat a llarg termini ¡ Deutes
+a llarg termini amb entitats de credit , l'estudiant pot escollir posar primer un element patrimonial
+o un altre, sempre ¡ quan les posi dins del Passiu no corrent. Dins d'una massa patrimonial hi ha
+diferents elements patrimonials que tenen la mateixa significació o funcionalitat económica.
+L'estudiant pot col:locar els elements patrimonials que formen part d'una mateixa massa
+patrimonial en l'ordre que vulgui. L'ordre no ha de coincidir amb la solució proposada ¡ per tant,
+no es pot penalitzar.
+Generalitat de Catalunya Pagina 19 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+1.5. Calculeu els indicadors de la rendibilitat económica i¡ de la financera. Comenteu els resultats
+obtinguts.
+(0,5 punts)
+
+NOM EXPRESSIÓ RESULTATS
+
+RENDIBILITAT ECONÓMICA
+Benefici abans d'interessos ¡ impostos /
+
+Aquest apartat 1.3 está vinculat als Total Actiu
+
+dos apartats anteriors. No es pot
+penalitzar a l'estudiant dues 104.000/700.000
+vegades pel mateix concepte.
+
+0,149 m)14,9%
+
+RENDIBILITAT FINANCERA
+
+Aquest apartat 1.3 está vinculat als | Benefici net / Patrimoni Net
+
+dos apartats anteriors. No es pot 0,126 mp) 12,6%
+
+. . 57.000/454.000
+penalitzar a l'estudiant dues
+
+vegades pel mateix concepte.
+
+Comentaris pel que fa als resultats:
+
+La Rendibilitat Económica ens explica el nombre d'euros de Benefici Abans d'Interessos ¡ Impostos
+(resultat d'explotació o BAll) que l'empresa ha generat per la seva activitat económica, per cada euro
+invertit globalment a la mateixa (per cada euro d'Actiu o capital d'activitat). Així doncs, en aquest cas
+el resultat de 0,149 ens indica que Estem Connectats SL ha estat capac de generar 0,149 euros de
+BAII per cada 1 euro invertit en Actiu (14,9 céntims d'euro per cada 1 euro invertit), o el que es lo
+mateix, per cada 100 euros invertits en Actiu, l'empresa ha estat capac de generar 14,9 euros de
+Benefici Abans d'Interessos ¡ Impostos (Rendibilitat Económica del 14,9%).
+
+La Rendibilitat Financera ens permet conéixer el nombre d'euros de Benefici Net que l'empresa ha
+generat al exercici 2017 com a remuneració financera per cada euro de fons propis (Patrimoni Net)
+invertit pels propietaris o generat per la propia empresa. Així doncs, en aquest cas el resultat ens
+indica que per cada 1 euro de Patrimoni Net (fons propis) l'empresa ha generat 0,126 euros de
+Benefici Net aquest exercici 2017, o el que es lo mateix, per cada 100 euros de Patrimoni Net ha
+generat 12,6 euros de Benefici Net (Rendibilitat Financera del 12,6%).
+
+> Aquest apartat 1.3 está vinculat als dos apartats anteriors. No es pot penalitzar a l'estudiant dues
+vegades pel mateix concepte. Per tant, els errors en els cálculs numérics només es poden
+descomptar una vegada. És a dir, que si per exemple, els estudiants no han calculat bé les partides
+que integren aquestes ratis no els podeu tornar a penalitzar. Si fan els cálculs bé a partir dels valors
+erronis obtinguts en els apartats anterior, s'ha d'atorgar igualment la puntuació máxima.
+
+7 Respecte els comentaris pel que fa a la rendibilitats calculades. Els correctors no han de buscar la
+perfecció en la resposta per aplicar la máxima puntuació. Qualsevol explicació que demostri que
+lestudiant argumenta correctament el que es demana es donará per bona.
+Pagina 20 de 26
+
+| Generalitat de Catalunya
+PAU 2020
+
+1 Consell Interuniversitari de Catalunya
+Oficina d'Acces a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 2
+2.1. Determineu quin projecte d'inversió és més recomanable segons el criteri del valor actual net
+
+(VAN) amb una taxa d'actualització del 7 %.
+[1 punt]
+
+Calculs:
+
+PROJECTE A (si treballem en 2 decimals)
+
+Desemborsament Flux net Flux net Flux net Flux net Flux net Flux net
+inicial de Caixa 1 | de Caixa 2 | de Caixa 3 | de Caixa 4 | de Caixa 5 | de Caixa 6
+Import (€) Import (€) | Import (€) | Import (€) | Import (€) | Import (€) | Import (€)
+
+11.000 [o] 2.000 o] o] 8.000 19.000
+
+VAN “A”=- 11.000 + 0/(1,07) + 2.000/(1,07)?+ 0/(1,07)? + 0/(1,07)* +8.000/(1,07)+ 19.000/(1,07)*=
+9.111,27 €
+
+PROJECTE B (si treballem amb 2 decimals)
+
+Desemborsament Flux net de | Flux net de Flux net de Flux net de | Flux net de
+inicial Caixa 1 Caixa 2 Caixa 3 Caixa 4 Caixa 5
+Import (€) Import (€) Import (€) Import (€) Import (€) Import (€)
+4.000 1.000 1.000 1.000 1.000 1.000
+NC NC2 NC3 NC NCS
+VAN “8” =-Do + INCL, FTC? , E E AT Ss
+A+X) A-kK)Y A+k)Y A+) A+Kk)
+VAN “B” =- 4.000 + 1000 + 1000 + 1000 + 1000 + 1000 = 100,20 €
+(1,07) (1,07) (1,07) (1,07) (1,07)
+
+Determinar quin projecte d'inversió és més recomanable:
+Segons el criteri del VAN seria més recomanable el projecte A perque el valor actualitzat dels fluxos
+de caixa esperats , al moment 0, és positiu ¡ superior al projecte B.
+
+El projecte més recomanable és el A, seguit del projecte B.
+Generalitat de Catalunya Pagina 21 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+2.2.Calculeu el termini de recuperació (0 payback) de cada projecte ¡ argumenteu quin és el
+projecte més recomanable segons aquest criteri.
+[1 punt]
+
+Calculs:
+
+PROJECTE A
+
+Desemborsament inicial: -11.000
+
+Any 1:0
+
+Any 2: 2.000
+
+Any 3:0
+
+Any 4:0
+
+Any 5: 8.000
+
+Any 6: no pot ser la totalitat (19.000 euros)
+
+Només en necessitem: 1.000
+Regla de tres:
+
+19.000........... 12 mesos
+
+X= 1.000 X 12/ 19.000 = 0,63 mesos
+Payback del projecte A: 4 anys i 0,63 mesos
+
+PROJECTE B
+
+Desemborsament inicial: -4.000
+Any 1: 1.000
+
+Any 2: 1.000
+
+Any 3: 1.000
+
+Any 4: 1.000
+
+Payback del projecte B: =4 anys.
+
+Comparació dels dos projectes:
+
+La millor opció, segons el criteri del termini de recuperació, és el projecte B, ja que es recupera la
+inversió en menys temps que l'altre projecte.
+
+Si haguéssim d'escollir, 'ordre seria: PROJECTE Bi després el PROJECTE A.
+
+2.3.Han de coincidir necessáriament el criteri del VAN ¡ el del termini de recuperació (0 payback)
+en la classificació de les inversions? Per qué?
+[0,5 punts]
+No han de coincidir, ja que el VAN és un criteri financer que és basat amb la distribució temporal dels
+desemborsaments, al moment que s'obté el flux de caixa .
+En canvi, el PAY-BACK és criteri estimatiu, que es basa amb el temps que passa per recuperar el
+desemborsament inicial de la inversió.
+
+Nota: Els correctors no han de buscar la perfecció en les explicacions per aplicar la máxima puntuació.
+Qualsevol explicació que demostri que l'estudiant argumenta correctament el que es demana es
+donará per bona.
+
+) Generalitat de Catalunya Pagina 22 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 3
+3.1. Feu una análisi de la solvencia de l'empresa a curt termini mitjancant tres rátios: la de
+liquiditat, la de tresoreria ¡ la de disponibilitat. Digueu si Mik, SA pot tenir problemes de
+liquiditat ¡ justifiqueu la resposta.
+[1,5 punts]
+Cálculs: Aquesta taula no cal que la facin els estudiants. LA TAULA ÉS PER DEIXAR CONSTANCIA QUE
+DEPÉN DEL LLIBRE DE TEXT DE BATXILLERAT ELS VALORS ORIENTATIUS DELS RATIS PODEN
+CANVIAR.
+
+NOM DE LES EXPRESSIÓ VALOR ORIENTATIU, dependra del llibre de text
+RÁTIOS utilitzat
+LIQUIDITAT Actiu corrent / El valor orientatiu que es proposa per aquest rati
+Passiu corrent hauria de ser entre 1,5i2.
+Hi han llibres de text que l'interval el situa entre
+RL = AC/PC == 1i2.
+
+700.000/425.000 = 1,65 | d'altres entre 1,5i1,8.
+
+També es coneix com a ratio de fons de
+maniobra o de solvencia a curt termini. Si el
+FM20, és a dir, positiu, determina que aquesta
+empresa está en equilibri financer. El Fons de
+maniobra és una garantia per a l'estabilitat de
+l'empresa ja que des del punt de vista del
+financament, és aquella part de l'Actiu Corrent
+que es financa amb Recursos Permanents. En
+general, hi ha excepcions, el Fons de Maniobra
+ha de ser positiu ja que si no, l'Actiu Fix estaria
+finangat amb Exigible a c/t i es podria arribar a
+una suspensió de pagaments.
+
+Qualsevol opció de les esmentades és bona.
+
+TRESORERIA (Realitzable + El valor de la rátio ha de ser prop d'1. Si la rátio
+
+Disponible) / és més petita que 1 voldria dir que amb els
+
+Passiu corrent recursos a curt termini empresa no pot pagar
+
+RT = (R + D)/PC = els deutes a curt termini ¡, si és més gran que 1
+
+(50.000 + l'empresa té un excés de liquiditat, pot estar
+150.000)/425.000 = perdent rendibilitat dels seus actius.
+
+10,47 Hi han d'altres llibres de text que l'interval el
+
+situa entre 0,8i1,2.
+
+Qualsevol opció de les esmentades és bona.
+DISPONIBILITAT Disponible / El valor orientatiu aproximat és de 0,3. Un valor
+Passiu corrent més petit a 0,3 pot indicar problemes per
+afrontar els pagaments ¡ més alt pot manifestar
+
+RD = D/PC = que l'empresa pot estar perdent la rendibilitat
+150.000/425.000 =| dels seus actius.
+10,35 Podríem establir que el valor óptim es situa entre
+
+0,3i0,4.
+
+SI ELS ESTUDIANTS RESOLEN L'EXERCICI A PARTIR D'AQUÍ ÉS CORRECTE. LA TAULA ANTERIOR ÉS
+PER DEIXAR CONSTANCIA QUE DEPÉN DEL LLIBRE DE TEXT DE BATXILLERAT ELS VALORS
+ORIENTATIUS DELS RATIS PODEN CANVIAR.
+
+Generalitat de Catalunya Pagina 23 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+EN RESUM:
+Per analitzar la solvencia a curt termini s'utilitzaran les ratios de liquiditat, tresoreria i
+disponibilitat.
+
+RL= AC/PC = 700.000/425.000 = 1,65
+RT = (R+D)/PC = (50.000 + 150.000)/425.000 = 0,47
+RD = D/PC = 150.000/425.000 = 0,35
+
+Justificació si l'empresa tindrá o no problemes de liquiditat:
+
+Tot ¡ que les rátios de liquiditat ¡ disponibilitat es troben dintre dels valors recomanats, la rátio de
+tresoreria es troba molt per sota del valor aconsellable qué és 1. Aixó implica que l'empresa pot
+tenir problemes per poder pagar els deutes a curt termini, ja que amb el disponible que té ¡ el que li
+deuen a curt termini només pot fer front al 44% del que ella deu a curt termini. No tindrá problemes
+de liquiditat si és capac de vendre ¡ cobrar la meitat de les existéncies de que disposa.
+
+Nota: Els correctors no han de buscar la perfecció en les explicacions per aplicar la máxima puntuació.
+Qualsevol explicació que demostri que l'estudiant argumenta correctament el que es demana es
+donará per bona.
+
+3.2.El director general de empresa Mik, SA té un germá que és un empresari individual. Aquest
+empresari está valorant dur a terme una inversió que consisteix en l'explotació d'una benzinera
+durant tres anys. Les característiques del projecte són les segilents:
+a) L'empresari haurá de fer un pagament inicial de 200.000 €, la meitat dels quals els aportará ell
+mateix ¡ altra meitat mitjancant un préstec que haura de tornar al cap de tres anys, juntament
+amb uns interessos de 30.000 €.
+b) Una empresa petroliera subministrará el carburant a l'empresari el dia 1 de cada mes i |hi
+cobrará el dia 30 del mateix mes. Es calcula que anualment pagará 500.000 € per aquest
+concepte.
+c) Per a afrontar diferents imprevistos, l'empresari disposará d'una polissa de crédit a tres anys
+de 100.000 €, que ha previst que li suposará uns pagaments anuals de 10.000 €.
+Identifiqueu les diferents fonts de finanrament que utilitzara empresari individual en aquest
+projecte d'inversió i¡ classifiqueu-les segons la procedéncia ¡ el termini. No cal que argumenteu la
+resposta.
+[1 punt]
+a) Capital: Externa (procedencia). A llarg termini.
+Préstec a tres anys. Externa (procedencia). A llarg termini.
+b) Crédit comercial o de proveidors que li dona Repsol. Externa (procedencia). A curt
+termini.
+c) Polissa de credit a llarg termini. Externa (procedencia). A llarg termini.
+
+Generalitat de Catalunya Pagina 24 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+Exercici 4
+
+4.1. Es poden definir diferents nivells d'estratégia empresarial en relació amb els objectius que es
+volen assolir ¡ els recursos que es volen utilitzar. Expliqueu els tres nivells d'estratégia o tipus
+d'estratégies genériques.
+
+[0,9 punts]
+
+Els nivells d'estratégia que es poden identificar són:
+
+Corporatiu, s'encarrega de prendre les decisions relacionades amb l'objectiu o abast global de
+
+l'empresa, amb la intenció de satisfer les expectatives dels propietaris o dels gestors ¡ afegir valor a
+
+les diferents arees de l'empresa.
+
+De negoci, fa referencia a aspectes més concrets, com la definició dels elements que poden fer
+
+competitius els productes de l'empres dins el seu mercat o segments de mercat.
+
+Operatiu, buscar gestionar de manera eficient els recursos de l'empresa, a escala d'un departament
+
+o més general, tenint com a marc de referencia les estratégies de l'empresa a escala superior.
+
+Nota: Els correctors no han de buscar la perfecció en les explicacions per aplicar la maxima puntuació.
+Qualsevol explicació que demostri que l'estudiant argumenta correctament el que es demana es
+donará per bona.
+
+4.2. Expliqueu en que consisteix la cadena de valor de Michael E. Porter ¡ amb quina finalitat
+s'utilitza. EXposeu també com es classifiquen les activitats d'una empresa segons la cadena de
+valor.
+
+[1 punt]
+
+La cadena de valor és una eina analítica que consisteix a descompondre ¡ analitzar totes les activitats
+
+que es duen a terme en una empresa per a fabricar o vendre un producte o servei. D'aquesta manera
+
+es pot estudiar l'aportació de valor de cadascuna de les activitats ¡ els costos que representen, a més
+d'identificar quines són les fonts d'avantatge competitiu ¡ estar en disposició de definir les estratégies
+competitives més adequades per al desenvolupament de l'empresa.
+
+Les activitats de la cadena de valor de Porter es poden diferenciar entre les Activitats primaries ¡ de
+
+suport:
+
+Les Activitats primaries, són l'esséncia de la contribució a la creació de valor de l'empresa doncs són
+
+el desenvolupament de l'activitat en si mateixa. Inclouen les activitats de: Logística interna,
+
+Producció, Logística interna, Comercialització ¡ vendes ¡ Serveis.
+
+Les Activitats de suport, per si soles no aporten valor, pero són necessáries per complementar les
+
+activitats primáries. Inclouen les activitats: Administració ¡ gestió, Direcció de recursos humans,
+
+Tecnologia ¡ les Finances, comptabilitat , qualitat, etc.
+
+Nota: Els correctors no han de buscar la perfecció en les explicacions per aplicar la máxima puntuació.
+Qualsevol explicació que demostri que l'estudiant argumenta correctament el que es demana es
+donará per bona.
+
+) Generalitat de Catalunya Pagina 25 de 26
+¿1 Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+4.3. Completeu les frases segiients amb el mot o mots que corresponguin:
+[0,6 punts]
+a) Quan s'intenten vendre més productes als mercats actuals captant els consumidors de la
+competencia ¡ augmentant la fregtiencia de compra dels consumidors actuals es posa en práctica una
+estrategia de
+b) En /ambit empresarial, les fan referéncia a les dificultats que es troba
+una empresa a l'hora d'accedir a un mercat, un producte o una marca de creació recent. Aquestes
+poden ser de diferents classes, com ara de carácter legal, economic o étic.
+C) La forca que tenen els clients per a imposar les seves condicions en les variables fonamentals de
+l'operació de compravenda, com ara el preu final, la qualitat, els terminis de lliurament, etc., es
+coneix coma .
+d) El moviment que fan algunes empreses consistent a traslladar els centres de treball que tenen als
+paisos desenvolupats cap a paisos amb menys costos per a l'empresa (generalment paisos en via de
+desenvolupament) s'anomena
+a) Penetració de mercat
+b) Les barreres d'entrada
+c) Poder de negociació dels clients
+d) Deslocalització
+
+Exercici 5
+5.1.Calculeu el punt mort de les dues opcions. Interpreteu els resultats obtinguts.
+[1 punt]
+Calcul:
+Opció manual:
+PM = —— = 18000 = 900 unitats
+
+(p-Cy) 25-5
+
+Opció automatitzada
+PM - Cr _ 24200
+(p-Cv) 25-3
+
+= 1100 unitats
+
+Interpretació dels resultats obtinguts:
+
+En les dos opcions el punt mort és inferior a les vendes previstes, per tant, en les dos opcions
+obtindria benefici. Amb la primera opció necessitaria 900 unitats per arribar al punt mort, mentre
+que amb la segona opció necessitaria 1.100 unitats.
+
+5.2.Calculeu els beneficis que s'obtindrien amb l'opció automatitzada si les vendes fossin de 1.500
+unitats.
+[1 punt]
+
+Costos total= Costos variables + costos fixos Y (1.500 x 3) + 24.200 = 28.700€
+
+Ingressos = 1500 x 25 = 37.500€
+
+Beneficis= Ingressos — Costos= 37.500-28.700 = 8.800€.
+
+]) Generalitat de Catalunya Pagina 26 de 26
+Zi Consell Interuniversitari de Catalunya PAU 2020
+Oficina d'Accés a la Universitat
+
+Criteris de correcció Economia de l'empresa
+
+5.3.Si ara amb lopció automatitzada es volgués obtenir un benefici de 16.000 €, produint ¡ venent
+1.650 unitats ¡i amb un cost variable unitari de 3,21 €/unitat, a quin preu s'hauria de vendre
+cada unitat del producte?
+[0,5 punts]
+
+Beneficis = 16.000 €
+
+Costos total= Costos variables + costos fixos + (1.650 x 3,21) + 24.200 = 29.496,5€
+Ingressos = 1.650 x p
+
+Beneficis= Ingressos — Costos > 16.000 = 1.650p — 29.496,5
+
+P=27,57€ /unitat
+
+Hauria de pujar el preu inicial de 25 a 27,57€/unitat.
+
+Exercici 6
+
+Encercleu la lletra de l'opció correcta de les questions seglients. [Cada resposta correcta val 0,5
+punts. Per cada resposta errónia es descomptaran 0,1 punts; per les preguntes no contestades no
+hi haurá cap descompte.]
+
+[2,5 punts]
+
+RESPOSTES
+6.1.C
+6.2.D
+6.3.C
+6.4.B
+6.5.B
+
+0,50 punts per cada resposta correcte; -0,1 si és incorrecta ¡ 0 si no respon.
+
+NOTA: Aquest exercici mai no podrá implicar una nota negativa que resti puntuació de la qualificació
+final de examen. En cas que la puntuació fos negativa, es considerara com a zero.
+
+Puntuació total: 2 punts (si totes les respostes són correctes: 5 x 0,50).
+
